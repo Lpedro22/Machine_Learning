@@ -1,10 +1,7 @@
-# Machine Learning - Atividade  9 - Classificação Marketing de Investimentos
+# Machine Learning - Atividade  10 - Validação e métricas de avaliação
 
 
-Links de acesso para os códigos:
+Link de acesso para o código:
 
-Marketing de Investimentos:
-https://colab.research.google.com/drive/1TdYlJ_HKKJOyeAGHxni7eKRYdceBw3WS?usp=sharing
+https://colab.research.google.com/drive/1DhFCEAgTb95h1SwJtfx-hRNqaxU79tjo?usp=sharing
 
-Churn (Simplificado):
-https://colab.research.google.com/drive/1j_wxvIWY2RqqmyAzEpucvWCx1EPN3-_1?usp=sharing
