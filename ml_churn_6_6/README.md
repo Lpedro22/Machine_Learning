@@ -1,4 +1,4 @@
-# Machine Learning - Classificação Churn
+# Machine Learning - Atividade 9 - Classificação Churn 
 
 
 Link de acesso para o código:

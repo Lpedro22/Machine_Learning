@@ -1,4 +1,4 @@
-# Machine Learning - Atividade  9 - Classificação Marketing de Investimentos
+# Machine Learning - Atividade  8 - Classificação Marketing de Investimentos
 
 
 Links de acesso para os códigos:
